@@ -8,48 +8,8 @@ data_nilai_ads <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Nilai ADS.csv")
 data_survei_sebelum <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Survei Kepuasan Sebelum Test.csv")
 data_survei_setelah <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Survei Kepuasan Setelah Test.csv")
 
-head(data_karakteristik)
+head(data_karakteristik) 
 head(data_nilai_ads)
 head(data_survei_sebelum)
 head(data_survei_setelah)
 
-## -- Data Cleaning pada Karakteristik Mahasiswa --
-# Ubah nama kolom uang saku menjadi lebih sederhana dan hapus karakter tidak perlu
-names(data_karakteristik)[names(data_karakteristik) == "Uang Saku : \n(yang diberikan oleh orangtua)"] <- "Uang_Saku"
-data_karakteristik$Uang_Saku <- gsub("\\\"", "", data_karakteristik$Uang_Saku)
-
-# Ambil hanya kolom Uang_Saku dan NIM (asumsi NIM adalah kolom kunci yang seharusnya berpasangan)
-# Karena NIM ada di baris pertama, kita bisa anggap NIM baris pertama tidak valid, atau kita ambil baris ke-2 dst.
-data_mahasiswa <- data_karakteristik[-1, c("NIM", "Uang_Saku")]
-
-# -- Penggabungan Nilai ADS --
-# Nilai ADS: Asumsi kita akan menggunakan rata-rata dari ketiga kelas (RA, RB, RC) sebagai nilai ADS tunggal.
-# Terapkan pada data nilai ADS, hilangkan baris pertama (header yang tidak valid)
-data_nilai_ads_clean <- data_nilai_ads[-1,]
-data_nilai_ads_clean$Nilai_ADS <- rowMeans(data_nilai_ads_clean[, c(1, 2, 3)], na.rm = TRUE)
-
-# Tambahkan nilai ADS ke data karakteristik.
-# ASUMSI: Urutan baris data_mahasiswa sama dengan urutan baris data_nilai_ads_clean.
-# Jika tidak sama, analisis Anda akan salah. Anda harus mencari cara mengaitkan kedua file!
-data_gabungan <- cbind(data_mahasiswa, Nilai_ADS = data_nilai_ads_clean$Nilai_ADS)
-
-# Konversi kolom menjadi tipe data yang tepat
-data_gabungan$Nilai_ADS <- as.numeric(data_gabungan$Nilai_ADS)
-data_gabungan$Uang_Saku <- factor(data_gabungan$Uang_Saku, ordered = TRUE, 
-                                 levels = c("< 1jt", "1 jt s.d 1,5 jt", "1,5 jt s.d 2 jt", "2 jt - 3 jt", "3 jt - 5jt", 
-                                            "5 jt - 7 jt", "7 jt - 9 jt", "> 9 jt")) # Urutkan level secara manual
-
-# Hapus baris dengan nilai NA jika ada
-data_analisis <- na.omit(data_gabungan)
-
-head(data_analisis)
-# Analisis Deskriptif
-summary(data_analisis)
-# Boxplot untuk memvisualisasikan perbedaan rata-rata dan penyebaran
-ggplot(data_analisis, aes(x = Uang_Saku, y = Nilai_ADS)) +
-  geom_boxplot(fill = "skyblue", color = "black") +
-  labs(title = "Distribusi Nilai ADS Berdasarkan Uang Saku",
-       x = "Kategori Uang Saku",
-       y = "Nilai Akhir ADS (Rata-rata)") +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
