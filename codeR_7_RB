@@ -1,6 +1,7 @@
 #analisis pengaruh uang saku terhadap nilai ads mahasiswa itera pada tahun 2025
 #memuat library yang dibutuhkan
 
+install.packages("vscDebugger")
 library(ggplot2)
 library(dplyr)
 data_karakteristik <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Karakteristik Mahasiswa.csv")
@@ -12,4 +13,3 @@ head(data_karakteristik)
 head(data_nilai_ads)
 head(data_survei_sebelum)
 head(data_survei_setelah)
-
