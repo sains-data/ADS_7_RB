@@ -1,0 +1,562 @@
+﻿NIM;Program Studi : ;IPK Terakhir : ;Jenis Kelamin;Tinggi Badan : ;Berat Badan : ;Pendidikan terakhir ;Rata-rata belajar perminggu (dalam jam) : ;Apakah penerima beasiswa : ;"Asal Daerah (Kota beserta Provinsi) : 
+Ex : Padang, Sumatera Barat ";Pekerjaan saat ini (selain kuliah) ;Akses Internet (yang paling sering digunakan) ;Keterlibatan Organisai ;"Uang Saku : 
+(yang diberikan oleh orangtua)";"Jenis Tempat Tinggal : 
+(Tempat tinggal saat ini) ";Jarak rumah dari kampus ITERA :  ;Jenis pekerjaan Ayah : ;Jenis pekerjaan Ibu : ;Pendapatan Orangtua : ;Jumlah Anggota Keluarga : 
+01;Sains Data;4. 0;Laki-laki;160;50;SMA;3;Tidak;"Lampung utara, lampung";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Asrama;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+02;Matematika ;"3,8";Laki-laki;169;57;SMA;48;Tidak;Lampung ;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;3
+03;Sains Data;"3,4";Perempuan;150;39;SMA;"17,5";Tidak;"Pringsewu, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+04;Sains Data ;"3,86";Laki-laki;170;65;SMA;4;Tidak;"Lampung Tengah, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+05;Sains Data;"3,97";Laki-laki;170;63;SMA;30;Tidak;"Lampung Tengah,Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;PNS;7 jt - 9 jt;6
+06;Sains Data;"3,35";Perempuan;154;40;SMA;3jam;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Petani/ Nelayan;PNS;1jt - 3jt;6
+07;Sains Data;"3,06";Perempuan;157;45;SMA;10;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+08;Sains Data;"2,78";Laki-laki;115;56;SMA;4;Tidak;"Kota Bekasi, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+09;Rekayasa Tata Kelola Air Terpadu ;"3,18";Perempuan;153;44;SMA;3-5jam;Ya;"Kalirejo, Lampung Tengah, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;6
+10;Sains Data;"3,15";Perempuan;155;50;SMA;30;Ya;"Lampung Tengah, Lampung";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+11;Sains Data ;"3,43";Laki-laki;17y;62;SMA;10-12;Tidak;"Lampung Tengah, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;3 km - 4 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;6
+12;Sains data ;"3,07";Laki-laki;168;68;SMA;40 jam;Tidak;"Lampung Timur, Lampung ";Paruh Waktu;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Lainnya;3 jt - 5jt;9
+13;Sains Data;"2,89";Laki-laki;167 cm;58 kg;SMA;5 jam;Tidak;"Padang,Sumater Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;Lainnya;1jt - 3jt;6 orang
+14;Sains Data ;"3,26";Perempuan;150;58;SMA;8 jam;Ya;"Tulang Bawang, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Lainnya;1jt - 3jt;4
+15;Sains Data;4;Laki-laki;166;56;SMK;10;Tidak;Lampung;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Pensiunan;PNS;5 jt - 7 jt;5
+16;Sains Data;4;Perempuan;155;40;SMA;3;Tidak;"Padang, Sumatera Barat";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;6
+17;Sains Data ;"2,85";Perempuan;165;59;SMA;24 jam;Tidak;"Metro, Lampung ";Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;4
+18;Sains Data;3;Perempuan;150;41;SMA;60 jam;Tidak;"way kanan, lampung utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;7 jt - 9 jt;4
+19;Sains Data;3;Laki-laki;167;59;SMA;16;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;7 jt - 9 jt;3
+20;Sains Data ;.;Perempuan;152;51;SMA;5;Ya;"Dairi, Sumatra Utara ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;< 1 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;6
+21;sains data;-;Laki-laki;163;55;SMA;49;Tidak;"bandar lampung,lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;> 9jt;4
+22;Sains Data ;Belum keluar masih semester 1;Perempuan;66;68;SMA;2 jam ;Tidak;Lampung Tengah ;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;3 km - 4 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+23;Sains Data;-;Perempuan;150;55;SMA;15 jam;Ya;"Tarutung, Sumatera Utara ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;3 orang
+24;Sains Data;-;Perempuan;161;40;SMA;20;Tidak;"Semarang, Jawa Tengah";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Lainnya;Lainnya;1jt - 3jt;5
+25;Sains Data;-;Laki-laki;170;68;SMA;120 menit per hari;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;7
+26;Sains Data;"3,03";Laki-laki;175 cm;70 kg;SMA;6;Tidak;"Lampung Selatan, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Karyawan Swasta;3 jt - 5jt;3
+27;Sains Data;"3,49";Perempuan;157;85;SMA;15 jam diiluar kampus ;Tidak;"Solok, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+28;Teknik Informatika;"3,38";Laki-laki;170;73;SMK;5;Tidak;"Bukittinggi, Sumatera Barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+29;SAINS DATA;"3,89";Laki-laki;175;70;SMA;9;Tidak;"Lampung Tengah, Lampung ";Paruh Waktu;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+30;Sains Data ;"3,68";Laki-laki;168;59;SMA;2;Ya;"Pringsewu, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+31;Sains Data;-;Laki-laki;165 cm;60 kg;SMA;2-3;Tidak;Sumatera Selatan;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+32;Sains Data;Belum ada;Laki-laki;175;50;SMA;20;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5
+33;Sains Data;-;Laki-laki;165;51;SMA;15 jam;Tidak;"Bukittinggi, Sumatera Barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;5
+34;Sains Data;-;Perempuan;150;43;SMA;"25 (mandiri, diluar jam kampus)";Tidak;"Bandarlampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;PNS;Ibu Rumah Tangga;> 9jt;5
+35;Sains Data;-;Perempuan;150;34;SMA;2;Tidak;"Lampung Timur, Lampung ";Tidak bekerja;Lainnya;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5
+36;Sains Data;-;Perempuan;171;52;SMA;72;Tidak;"Kota Metro, Lampung";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;> 5 km;PNS;PNS;3 jt - 5jt;4
+37;Sains Data;-;Perempuan;155;40;SMA;banyak;Ya;Lampung ;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+38;Sains Data;-;Perempuan;±160cm;±42 kg;SMA;"17,5";Ya;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+39;Sains Data ;-;Perempuan;168;-;SMA;"2,5";Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Lainnya;1jt - 3jt;4
+40;Sains Data ;-;Laki-laki;±180cm;80kg;SMK;4;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;Karyawan Swasta;7 jt - 9 jt;7
+41;Sains Data ;-;Perempuan;157;45;SMK;20;Ya;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+42;Sains Data;0;Laki-laki;166 cm;70 kg;SMA;20;Tidak;"Liwa, Lampung Barat";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Lainnya;5 jt - 7 jt;4
+43;Rekayasa Instrumentasi dan Automasi;"3,64";Perempuan;155;44;SMA;10;Tidak;"Lampung Utara, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;2
+44;Sains Data;"3,78";Laki-laki;164;50;SMA;14;Ya;"Sibolga, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Wiraswata;1jt - 3jt;3
+45;Sains Data;"3,03";Laki-laki;"167,5";87;SMA;4;Tidak;"Sukabumi, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;3 km - 4 km;Pensiunan;Ibu Rumah Tangga;< 1jt;5
+46;sains data;"3,47";Laki-laki;175;58;SMA;3 jam;Tidak;"Kotabumi, Lampung Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Wiraswata;Wiraswata;1jt - 3jt;4
+47;Sains Data;0 (Baru semester 1);Laki-laki;179;89;SMA;5 jam;Tidak;"Palembang, Sumatera Selatan ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Lainnya;Lainnya;1jt - 3jt;3
+48;Sains Data;"3,37";Laki-laki;163;47;SMK;"0,5";Ya;"Agam, Sumatera Barat ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;8
+49;Sains Data;-;Laki-laki;165+;70;SMA;7;Tidak;"Bandar Lampung, Lampung";Paruh Waktu;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;1jt - 3jt;6
+50;Sains Data;-;Laki-laki;180 cm;60;SMK;4 jam;Tidak;"Tangerang, Banten";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;> 9jt;4
+51;Sains Data;"3,2";Perempuan;164;54;SMA;1;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Tinggal besama orangtua;3 km - 4 km;PNS;Pensiunan;7 jt - 9 jt;6
+52;Sains Data;-;Perempuan;158;"55,5";SMA;15 jam;Tidak;"Mesuji, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Asrama;< 1 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;5
+53;Sains Data;"3,51";Laki-laki;173;48;SMA;3;Tidak;"Lampung Utara, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;PNS;PNS;5 jt - 7 jt;4
+54;Sains Atmosfer dan Keplanetan ;"3,2";Perempuan;143;36;SMA;5;Tidak;"Pekanbaru, Riau";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+55;Teknik Biosistem;"2,8";Perempuan;153;45;SMA;3;Tidak;"Balige, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;< 1 km;Lainnya;Pensiunan;< 1jt;5
+56;Teknik Pertambangan;"3,5";Laki-laki;170;60;SMK;3 jam;Tidak;"Pekanbaru, Riau";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;7
+57;Teknik Geofisika;"2,75";Perempuan;156;36 kg;SMA;5 jam;Tidak;"Pekanbaru, Riau";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Rumah mengontrak bersama-sama;< 1 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;6
+58;Teknik Biomedis ;3;Perempuan;156;38 kg;SMA;4 jam;Tidak;"Medan, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;> 2 jt;Rumah mengontrak bersama-sama;< 1 km;Lainnya;Ibu Rumah Tangga;5 jt - 7 jt;5
+59;teknik telekomunikasi;"3,28";Perempuan;160;43;SMA;48 jam;Ya;"pesawaran, bandar lampung";Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;3 km - 4 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+60;teknik elektro;"3,03";Laki-laki;160;60;SMK;7x;Ya;"Pekanbaru,Riau";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Lainnya;Lainnya;5 jt - 7 jt;4
+61;Teknik Elektro;"3,39";Laki-laki;174;72;SMA;8 jam;Tidak;"Batam, Kepulauan Riau";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Rumah mengontrak bersama-sama;> 5 km;Lainnya;Lainnya;1jt - 3jt;6
+62;Arsitektur Lanskap;"3,49";Perempuan;145;33;SMA;60;Tidak;"Pekalongan, Lampung Timur";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+63;Sains Aktuaria;"3,";Perempuan;160cm;51kg;SMA;5jam;Tidak;"Metro, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5 orang sudah termasuk saya
+64;Sains Data;"3,31";Perempuan;160;50;SMA;20;Tidak;"ukui, Riau";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Wiraswata;5 jt - 7 jt;7
+65;SAINS AKTUARIA;±3.71;Perempuan;155;40;SMA;3;Tidak;Metro lampung;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Karyawan Swasta;Lainnya;3 jt - 5jt;5
+66;Sains Data;"3,14";Laki-laki;173;52;SMA;17;Tidak;"Kalianda, Lampung Selatan";Paruh Waktu;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;5
+67;Sains Aktuaria;-;Laki-laki;160;48;SMA;18 Jam;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Petani/ Nelayan;1jt - 3jt;2
+68;Rekayasa Instrumentasi dan Automasi;-;Perempuan;158cm;38cm;SMA;5 jam;Tidak;"Menggala, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;< 1 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;6
+69;Sains Data;"3,22";Perempuan;157;45;SMA;15 jam;Tidak;"Kota Jambi, Jambi";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;4
+70;Rekayasa Kehutanan;"3,22";Laki-laki;164;67;SMA;2;Tidak;"Lampung Tengah, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;4
+71;Rekayasa keolahragaan ;"1,4";Laki-laki;155;55;SMA;1;Ya;Lampung tengah provinsi lampung;Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;< 1jt;4
+72;Arsitektur Lanskap;"3,5";Perempuan;160;40;SMA;60;Tidak;"Jambi, Sumatera bagian Selatan";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Rumah mengontrak bersama-sama;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;4
+73;Teknik Mesin;-;Laki-laki;170 cm;70;SMA;4 jam ;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+74;Sains Aktuaria;"3,79";Perempuan;153;45;SMA;1 jam;Tidak;Lampung barat;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;5
+75;Arsitektur Lanskap;"3,62";Perempuan;162;52;SMA;5;Ya;"tulang bawang,lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+76;Sains Data;"2,61";Laki-laki;170 cm;95;SMA;10;Tidak;"Jakarta Utara, DKI Jakarta";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;PNS;PNS;3 jt - 5jt;6
+77;Sains Data;"3,29";Laki-laki;172;53;SMA;6;Tidak;"Curup, Bengkulu";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak Pribadi;3 km - 4 km;PNS;Ibu Rumah Tangga;1jt - 3jt;5
+78;Sains Data;"3,5";Laki-laki;170;60;SMA;3-4;Ya;"Payakumbuh, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5
+79;Teknik Mesin;"3,33";Laki-laki;169;55;SMA;0;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;3 km - 4 km;Pensiunan;Ibu Rumah Tangga;3 jt - 5jt;5
+80;Sains Data;"3,79";Perempuan;155;54;SMA;14;Tidak;Lampung barat;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+81;Sains Data;"3,36";Perempuan;145;43;SMA;3;Tidak;"Pariaman, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;6
+82;Sains Data;"3,35";Laki-laki;171;69;SMA;14;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;6
+83;Teknik Perkeretaapian ;"3,56";Laki-laki;163;47;SMA;10;Ya;"Medan, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;4
+84;Sains data;"3,79";Perempuan;155;50;SMA;12;Tidak;"Lampung barat,lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+85;sains data;"3,38";Laki-laki;165;57;SMA;40;Tidak;"Doloksanggul , Sumatera Utara";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Lainnya;Petani/ Nelayan;1jt - 3jt;4
+86;Teknik Geofisika;"3,5";Laki-laki;176;96;SMA;10 jam;Tidak;"Simalungun,Sumatera Utara";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;5
+87;ARSITEKTUR;"3,04";Perempuan;157;70;SMA;21;Tidak;"Kotabumi, LAMPUNG";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;3
+88;Sains Data;4;Perempuan;150;60;SMA;3;Tidak;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Lainnya;Lainnya;1jt - 3jt;3
+89;Sains Data;"3,2";Laki-laki;176;62;SMA;4;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Lainnya;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+90;Sains Data;"3,58";Laki-laki;165;65;SMA;3jam;Tidak;"Baturaja, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Lainnya;Ibu Rumah Tangga;5 jt - 7 jt;5
+91;Farmasi;-;Laki-laki;174;77;SMA;14 jam;Ya;"Bandar Lampung, Lampung";Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;5 jt - 7 jt;5
+92;Sains Data ;"3,83";Laki-laki;176;65;SMA;15;Tidak;"Tangerang, Banten";Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Lainnya;5 jt - 7 jt;4
+93;Sains Data;"3,81";Laki-laki;177;96;SMA;12;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;PNS;5 jt - 7 jt;5
+94;Sains Data;"2,95";Perempuan;165 cm;55 kg;SMA;10;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;> 9jt;6
+95;Sains Data;"3,81";Perempuan;152;43;SMA;9;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+96;Sains Atmosfer dan Keplanetan;"2,78";Perempuan;168;53;SMA;14-15 jam perminggu;Tidak;"Bandung, Jawa Barat";Tidak bekerja;Lainnya;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;Karyawan Swasta;< 1jt;6
+97;Arsitektur ;"3,95";Perempuan;156;42;SMA;8;Tidak;"Serang, Banten";Tidak bekerja;Paket Data Seluler;Tidak Aktif;> 2 jt;Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+98;Sains Data;"3,07";Laki-laki;165;58;SMA;5;Ya;"Dharmasraya, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+99;Sains Data;"3,38";Perempuan;151;47;SMA;2;Tidak;Lampung Selatan;Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;5
+100;Sains Data;"2,7";Laki-laki;178 cm;65 kg;SMA;7;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;> 9jt;4
+101;Teknologi Pangan ;"3,51";Perempuan;157 cm;59 kg;SMA;56 jam;Tidak;"Pringsewu, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;6
+102;Teknik pertambangan ;3;Perempuan;150;50;SMA;14;Tidak;"Pringsewu, lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+103;Sains lingkungan kelautan;"3,17";Perempuan;158;54;SMA;50;Ya;"Pringsewu, lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Petani/ Nelayan;Lainnya;< 1jt;4
+104;Teknologi Pangan ;-;Perempuan;155 cm;45 kg;SMK;-;Tidak;"Pringsewu, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+105;Sains Data ;"3,47";Perempuan;168;68;SMA;2;Tidak;"Kotagajah,lampung tengah";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Wiraswata;1jt - 3jt;4
+106;Sains data ;"3,31";Perempuan;159;56;SMA;8;Ya;Lampung ;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+107;Teknik Industri;-;Perempuan;150;45;SMA;48;Tidak;Sumatra Utara;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;8
+108;Teknologi Pangan;"3,81";Perempuan;163;80;SMA;8;Tidak;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;3
+109;Teknologi Pangan ;-;Perempuan;150;50;SMA;90 jam;Tidak;"Kabupaten Humbang Hasundutan, Sumatera Utara";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+110;Teknik pertambangan ;"3,2";Perempuan;165;46;SMA;"5 jam perhari, 25jam perminggu";Tidak;"Lampung, Lampung utaraa ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;> 2 jt;Kos;1 km - 2 km;PNS;PNS;> 9jt;5
+111;Teknik Geologi ;"3,6";Perempuan;156;51;SMA;7;Tidak;"karo, sumatera utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;3 km - 4 km;Wiraswata;PNS;> 9jt;6
+112;Sains Data;"3,54";Perempuan;155 cm;70 kg;SMA;5 jam;Tidak;"Kabupaten Agam, Sumatera Barat";Tidak bekerja;Lainnya;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;PNS;PNS;3 jt - 5jt;6
+113;sains data;"3,5";Perempuan;157;52;SMA;10 jam;Tidak;"jabung,lampung timur";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Pensiunan;< 1jt;4
+114;Sains Data;"3,1";Laki-laki;159;90;SMK;8 jam;Tidak;"Metro Kibang, Lampung Timur";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Pensiunan;1jt - 3jt;4
+115;Perencanaan wilayah dan kota;3;Perempuan;155;55;SMA;14;Tidak;"Kota lubuklinggau, Sumatera selatan";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;7 jt - 9 jt;6
+116;Kimia;"2,8";Laki-laki;169;105;SMK;3-7 jam ;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;3 km - 4 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;5
+117;Sains Data ;-;Perempuan;148 cm;44 kg;SMA;35-40 jam;Tidak;"Gayo Lues, Aceh";Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;PNS;PNS;3 jt - 5jt;5
+118;Sains Data;"3,75";Perempuan;155;52;SMA;2;Tidak;"Kotabumi, Lampung Utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;PNS;PNS;1jt - 3jt;5
+119;Kimia;"3,94";Perempuan;150;50;SMA;8;Ya;"Lampung Tengah, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+120;sains data;-;Perempuan;155;43;SMA;3jam;Tidak;bandar lampung;Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+121;Kimia;belum tau;Perempuan;162;60;SMA;08.00 - 22.00;Tidak;"Kota Dumai, Riau";Tidak bekerja;Fasilitas Kampus;Lainnya;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;PNS;3 jt - 5jt;3
+122;Rekayasa Minyak & Gas;-;Laki-laki;165;45;SMK;3 jam;Tidak;"Bandar Lampung,Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+123;Sains Data;"3,25";Perempuan;154;58;SMA;6;Ya;"Lampung Barat, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+124;TEKNIK PERTAMBANGAN;-;Laki-laki;168 Cm;52;SMA;35 Jam;Tidak;Humbang hasundutan/Sumatera Utara;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+125;Sains Data;"3,24";Perempuan;152;45;SMA;7;Tidak;"Bukittinggi, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;Karyawan Swasta;PNS;5 jt - 7 jt;4
+126;Sains Data;"3,4";Perempuan;161;52;SMA;0;Tidak;"Tulang Bawang Barat , Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+127;Teknik Industri ;"3,3";Laki-laki;170;60;SMA;2 jam;Tidak;Lampung Timur;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5
+128;Sains Data;"3,13";Perempuan;150cm;48kg;SMA;3 jam;Ya;Bengkulu Selatan ;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+129;Sains Aktuaria ;"3,02";Perempuan;153;53;SMA;10 ( diluar kampus);Tidak;Sumatera Utara ;Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Wiraswata;1jt - 3jt;6
+130;Pariwisata ;"3,4";Laki-laki;170 cm;98 kg;SMA;2 jam;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;4
+131;Teknik Geofisika ;"3,28";Perempuan;152;49;SMA;5;Tidak;Balige Sumatra Utara ;Penuh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;PNS;Petani/ Nelayan;1jt - 3jt;7
+132;Teknik Geomatika ;"3,";Perempuan;150;49;SMK;40 jam ;Ya;"Balige, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;6
+133;Sains atmosfer dan keplanetan ;"3,3";Perempuan;167;65;SMA;4 jam;Tidak;"Bukittinggi, sumatera barat ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;8
+134;Sains Data ;"3,44";Perempuan;150;40;SMA;7;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;4
+135;Sains Atmosfer dan Keplanetan;"2,92";Perempuan;160;55;SMA;"1,5 jam";Ya;"Bogor, Jawab Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;Lainnya;< 1jt;5
+136;Sains data;"3,2";Perempuan;156;40;SMA;8;Tidak;"Payakumbuh, Sumatera Barat ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;3
+137;Sains Data ;"3,78";Laki-laki;165;45;SMA;7 Jam;Tidak;"Kalianda, Lampung Selatan ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;PNS;PNS;3 jt - 5jt;5
+138;Sains Data;"2,76";Perempuan;155;48;SMA;1;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Lainnya;Karyawan Swasta;3 jt - 5jt;3
+139;Teknik Pertambangan;"3,32";Perempuan;160;56;SMA;20jam;Ya;"Tebing Tinggi, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;PNS;Ibu Rumah Tangga;1jt - 3jt;5
+140;Sains data;"2,87";Perempuan;155;42;SMA;4;Tidak;"Pekanbaru, Riau";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Kos;< 1 km;Lainnya;Ibu Rumah Tangga;< 1jt;2
+141;Sains Atmosfer dan Keplanetan;"3,34";Perempuan;159;49;SMA;2 jam;Tidak;"Bukittinggi, sumatera barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+142;Sains data ;-;Perempuan;157;55;SMA;14 jam;Tidak;Palembang Sumatera Selatan ;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;4
+143;Fisika;"2,67";Perempuan;150;40;SMA;5 jam;Ya;Lampung;Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Petani/ Nelayan;Lainnya;< 1jt;4
+144;REKAYASA INSTRUMENTASI DAN AUTOMASI;belum ada IPK (mahasiswa baru);Laki-laki;163;58;SMA;17;Tidak;"Kota Jambi, Jambi";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;5
+145;Sains Data;"3,5";Perempuan;160;47;SMA;1;Tidak;"Depok, Jawa Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;4
+146;TKA;"3,2";Perempuan;158;51;SMA;12 jam;Tidak;"lampung tengah, lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;5
+147;Arsitektur ;"3,5";Laki-laki;165;50;SMA;5 jam;Tidak;"Lampung Selatan, Lampung ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;3
+148;sains data;"3,42";Perempuan;155;48;SMA;1 jam;Tidak;Sumatera utara;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;Lainnya;Ibu Rumah Tangga;7 jt - 9 jt;4
+149;SAINS LINGKUNGAN KELAUTAN ;"3,50";Perempuan;155;52;SMA;7 jam/ hari;Tidak;"MEDAN, SUMATERA UTARA ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Petani/ Nelayan;< 1jt;4
+150;Teknik kelautan;"3,5";Laki-laki;175;60;SMA;6 jam /hari;Ya;Sidikalang sumatera utara;Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Asrama;< 1 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;7
+151;TEKNIK SISTEM ENERGI ;-;Laki-laki;162;49;SMA;1-2;Tidak;"Karo, Sumatra Utara ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Asrama;< 1 km;Petani/ Nelayan;PNS;< 1jt;2
+152;Teknik Informatika;-;Perempuan;150;42;SMA;22jam;Ya;"Padang Sidimpuan, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;6
+153;Sains Data;"3,6";Laki-laki;173;69;SMA;3 jam;Tidak;"Depok, Jawa Barat";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Lainnya;PNS;7 jt - 9 jt;4
+154;Sains Data;"3,4";Perempuan;155;58;SMA;3;Tidak;Bandar Lampung;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;3 km - 4 km;Wiraswata;PNS;3 jt - 5jt;4
+155;Fisika ;"2,74";Perempuan;158 cm;46kg;SMA;6 jam ;Tidak;"Raman Aji, Lampung Timur ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;4
+156;Teknik Informatika;-;Perempuan;155;40;SMA;"2,5";Ya;"Medan, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Wiraswata;1jt - 3jt;4
+157;teknik Pertambangan ;"3,5";Laki-laki;173;76;SMA;8;Tidak;"Kotaagung, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Kos;> 5 km;PNS;PNS;7 jt - 9 jt;6
+158;Teknik industri ;"3,14";Perempuan;148;45;SMA;60 jam;Ya;Lampung;Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+159;kimia;"2,8";Laki-laki;169;105;SMK;6-8;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;5
+160;Sains Data;"3,24";Perempuan;165;65;SMA;0;Tidak;"Lampunga Selatan, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+161;Sains Data;-;Laki-laki;168 cm;50 kg;SMA;1000;Ya;"Kab. Solok, Sumatera Barat";Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Wiraswata;< 1jt;4
+162;Rekayasa instrumentasi & automasi;Belum ada karna semester baru;Laki-laki;170;71;SMA;17;Tidak;Medan sumatera utara;Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Lainnya;PNS;3 jt - 5jt;4
+163;Sains Data ;-;Laki-laki;163;54;SMA;15 jam ;Tidak;"Kutacane, Aceh ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;< 1 km;Wiraswata;PNS;1jt - 3jt;5
+164;FISIKA;"2,6";Perempuan;160 Cm;50 Kg;SMA;14 Jam;Tidak;"Duri Kosambi, Jakarta Barat";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Wiraswata;< 1jt;3
+165;Teknik Geofisika ;4;Laki-laki;170;70;SMA;24;Tidak;"Tulang Bawang, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;PNS;Lainnya;5 jt - 7 jt;4
+166;Sains Data ;"3,15";Laki-laki;171;56;SMA;2 — 3;Tidak;"Bekasi, Jawa Barat ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+167;Sains Data;0;Laki-laki;166 cm;70 kg;SMA;20;Tidak;"Liwa, Lampung Barat";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Lainnya;5 jt - 7 jt;4
+168;Sains Data;-;Laki-laki;170;60;SMK;4;Tidak;"Kota Bengkulu, Bengkulu";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+169;Teknik Informatika ;"3,5";Perempuan;150;48;SMA;72 jam;Tidak;"Medan, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;5
+170;Rekayasa Kosmetik;"3,35";Perempuan;158;45;SMA;50 jam;Tidak;"Toba, sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Lainnya;Petani/ Nelayan;< 1jt;8
+171;Sains Aktuaria;4;Perempuan;161;49;SMA;3;Tidak;"Lampung Barat, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;PNS;PNS;5 jt - 7 jt;5
+172;Sains Data;"2,77";Perempuan;156;45;SMA;7;Tidak;"Serang, Banten";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;5 jt - 7 jt;4
+173;Teknik Informatika ;"3,5";Perempuan;150;48;SMA;72 jam;Tidak;"Medan, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Petani/ Nelayan;3 jt - 5jt;5
+174;Sains Data;"3,68";Perempuan;155;45;SMA;48;Ya;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Ibu Rumah Tangga;< 1jt;4
+175;Sains Data ;"3,2";Laki-laki;170;70;SMA;6;Tidak;"Painan, Sumatera Barat";Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;5
+176;Sains Data;"3,86";Perempuan;152;45;SMA;4;Tidak;"Muara Bungo, Jambi";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;> 9jt;8
+177;teknij geofisika;"3,4";Laki-laki;170;62;SMA;20 jam;Tidak;lampung;Tidak bekerja;Wi-Fi pribadi;Lainnya;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;PNS;> 9jt;5
+178;Rekayasa kehutanan 3.1;3;Perempuan;147;49;SMK;4 jam;Tidak;"Tapanuli Utara, sumatera utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;7
+179;Teknik Informatika ;"3,39";Laki-laki;170 cm;55 kg;SMK;6-7;Tidak;"Bogor, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Lainnya;Lainnya;1jt - 3jt;2
+180;Sains Data;"3,17";Perempuan;157;62;SMK;5;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;PNS;3 jt - 5jt;5
+181;Sains Data;"3,58";Perempuan;159;64;SMA;18;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+182;Sains Data ;3;Perempuan;157 cm;44;SMA;28 jam;Tidak;"Manna, Bengkulu";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+183;Sains Data;"2,97";Laki-laki;180;65;SMA;20;Tidak;"Lampung Utara, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;PNS;PNS;> 9jt;4
+184;Sains Data;"3,01";Perempuan;160;58;SMA;6 jam;Tidak;"Lampung Utara,Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5 orang
+185;Sains Data;"3,19";Laki-laki;160;45;SMA;9;Tidak;"Gunungsitoli, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;PNS;3 jt - 5jt;5
+186;Sains data;"2,5";Perempuan;159;50;SMA;10;Tidak;"Bandar Lampung, Lampung";Paruh Waktu;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;5 jt - 7 jt;3
+187;Sains Data;"3,38";Perempuan;153 cm;48 kg;SMA;15;Tidak;"Payakumbuh, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Karyawan Swasta;Lainnya;3 jt - 5jt;4
+188;Sains Data;"3,5";Perempuan;160;50;SMA;15;Tidak;"simalungun, sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;5 jt - 7 jt;3
+189;Teknik Informatika;"3,84";Laki-laki;164;46;SMA;2;Ya;"Padang Panjang, Sumatra Barat";Tidak bekerja;Lainnya;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;6
+190;Sains Data;"3,68";Laki-laki;165;45;SMA;2;Tidak;"Lampung Tengah, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Asrama;< 1 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+191;teknik geofisika;"3,4";Laki-laki;170;62;SMA;10;Tidak;lampung bandar lampung;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Tinggal besama orangtua;3 km - 4 km;Karyawan Swasta;Karyawan Swasta;> 9jt;5
+192;Sains Data;"3,49";Perempuan;159;51;SMA;5;Tidak;"Pesisir Barat, Lampung";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5
+193;Pariwisata;-;Laki-laki;160;75;SMA;1;Tidak;"Medan, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;< 1 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;4
+194;Sains Data;3;Laki-laki;168;60;SMA;21;Tidak;"Tangerang, Banten";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;2 km - 3 km;Karyawan Swasta;Wiraswata;3 jt - 5jt;4
+195;Arsitektur;-;Perempuan;155;45;SMA;3;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;2
+196;Fisika ;"3,83";Laki-laki;160;45;SMA;30;Tidak;Lampung Tengah ;Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Rumah mengontrak bersama-sama;2 km - 3 km;PNS;Ibu Rumah Tangga;7 jt - 9 jt;7
+197;Sains Data ;"3,5";Perempuan;145;35;SMA;14;Tidak;"Lampung Timur, Lampung ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+198;Sains Data;Belum ada;Laki-laki;63;47;SMA;1-2;Ya;"Sukadana, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+199;Sains Data;0;Laki-laki;171;49;SMK;2-4 jam;Ya;"Bandar Lampung, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+200;Sains Data;"3,97";Laki-laki;168;75;SMA;"12,5";Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;4
+201;Teknik Perkeretaapian ;-;Perempuan;155 cm;48 kg;SMA;2;Ya;"Lampung Selatan, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+202;Sains Data ;"3,7";Laki-laki;175;75;SMA;2.5 hingga 3;Tidak;Bandar Lampung ;Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;> 9jt;5
+203;Teknik Kimia;"3,5";Laki-laki;165;54;SMA;1 jam;Tidak;Bandar Lampung;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Wiraswata;Lainnya;3 jt - 5jt;5
+204;Sains Data;-;Laki-laki;177;60;SMA;8;Tidak;"Kab.Bogor, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Lainnya;5 jt - 7 jt;3
+205;Sains Data;-;Laki-laki;181 cm;69 kg;SMK;3 jam ;Tidak;"Cakung, Jakarta Timur";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Wiraswata;> 9jt;6
+206;Sains Aktuaria ;"3,43";Laki-laki;171;70;SMA;+10 Jam;Tidak;DKI Jakarta ;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;> 9jt;5
+207;Rekayasa Instrumentasi Dan Automasi ;-;Laki-laki;170;80;SMA;4;Tidak;"Kampar, Riau ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;2 km - 3 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;4
+208;biologi;"2,75";Perempuan;152;41;SMA;2 jam;Tidak;"bandar lampung,lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;3 km - 4 km;Wiraswata;Wiraswata;5 jt - 7 jt;4
+209;Arsitektur lanskap ;"3,76";Laki-laki;180 cm;62;SMA;1;Tidak;Jakarta ;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Karyawan Swasta;PNS;> 9jt;4
+210;Sains Atmosfer dan Keplanetan;"2,91";Perempuan;150;48;SMA;10;Tidak;"Lampung Utara, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;> 2 jt;Kos;1 km - 2 km;PNS;Wiraswata;> 9jt;6
+211;Sains Aktuaria;-;Perempuan;148 cm;44 kg;SMA;126 jam;Ya;"Bukittinggi, Sumatera Barat";Paruh Waktu;Fasilitas Kampus;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Asrama;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;3 orang
+212;SAP;"3,14";Laki-laki;180;58kg;SMA;0;Tidak;Bogor;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+213;Teknik Pertambangan ;-;Laki-laki;172;55;SMA;16 jam;Tidak;"Ambon, Maluku";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;> 9jt;7
+214;Teknik Biosistem;-;Perempuan;160;52;SMA;-+5jam;Tidak;Jambi;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;2 km - 3 km;Lainnya;Petani/ Nelayan;3 jt - 5jt;7 karena ayah wafat jadi 6
+215;Teknik Geologi;"3,48";Perempuan;170;62;SMA;30 jam;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+216;Sains Data ;-;Perempuan;150;55;SMA;15 jam;Ya;"Tarutung, Sumatera Utara ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;3
+217;Pwk;"3,03";Perempuan;153;46;SMA;42;Ya;"Liwa, lampung barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;4
+218;teknik industri;"3,91";Perempuan;159;48;SMA;7-8 jam;Tidak;"cilegon, banten";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;> 9jt;5
+219;Farmasi ;"3,83";Perempuan;158 cm;50;SMA;3 jam;Tidak;"Pringsewu, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;5
+220;Sains Atmosfer dan Keplanetan;4;Laki-laki;170;64;SMA;5;Ya;"Lampung timur,Lampung";Tidak bekerja;Fasilitas Kampus;Aktif kegiatan akademik;500k s.d 1 jt;Asrama;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;7
+221;Sains Aktuaria;"3,06";Laki-laki;174;79;SMA;2 - 4 jam;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Pensiunan;Ibu Rumah Tangga;1jt - 3jt;4
+222;Kimia;"3,..";Perempuan;Ga tau;Ga tau;SMK;Ga pasti;Ya;Aceh;Penuh Waktu;Lainnya;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Lainnya;Lainnya;< 1jt;6
+223;Sains Aktuaria;"3,89";Perempuan;150;52;SMA;20;Tidak;"Way Kanan, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;Pensiunan;PNS;7 jt - 9 jt;6
+224;Sains Aktuaria ;"3,5";Perempuan;163;54;SMA;4 jam;Tidak;"Palembang, Sumatera Selatan ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+225;Sains Data;-;Laki-laki;166;45;SMK;10 jam;Tidak;"Lampung utara,lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Asrama;< 1 km;Wiraswata;Lainnya;1jt - 3jt;2
+226;Teknik Kimia;"3,7";Perempuan;155;40;SMA;9 jam;Ya;"Bandar Lampung, Lampung ";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+227;Teknik;0;Perempuan;170;70;SMA;4;Ya;"Balige, Sumatra utara";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;8
+228;Sains Aktuaria;"3,7";Laki-laki;168;61;SMA;7;Tidak;Sumatera Utara;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Lainnya;1jt - 3jt;6
+229;Sains Data;"3,45";Laki-laki;171 cm;51 kg;SMA;9 jam;Tidak;"Telukdalam Nias Selatan, Sumatera Utara";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Asrama;< 1 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5 anggota keluarga (3 orang anak beserta ayah dan ibu)
+230;Sains Data;"2,83";Laki-laki;161;55;SMA;35 jam;Tidak;"Tangerang, Banten";Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Rumah mengontrak bersama-sama;3 km - 4 km;Lainnya;Lainnya;5 jt - 7 jt;5
+231;Teknik Fisika ;"2,98";Laki-laki;165;58;SMA;32 Jam;Tidak;"Bengkulu Selatan, Bengkulu ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;> 2 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Petani/ Nelayan;PNS;3 jt - 5jt;6 Orang
+232;Sains Data;-;Laki-laki;178;72;SMA;7;Tidak;"Lampung Barat, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Petani/ Nelayan;Lainnya;3 jt - 5jt;5
+233;Sains Data;"3,42";Laki-laki;175;60;SMK;5;Tidak;"Kota Bekasi, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+234;Sains Aktuaria ;"3,33";Perempuan;153;53;SMA;10-20;Tidak;"Pesawaran, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+235;Sains Data;-;Perempuan;156 cm;55 kg;SMA;9 jam;Ya;"Humbang Hasundutan, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Petani/ Nelayan;1jt - 3jt;4
+236;Sains Data;-;Laki-laki;164 cm;47 kg;SMA;25 jam;Tidak;Lampung Barat;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;5
+237;Rekayasa Kosmetik;-;Perempuan;159;47;SMA;-;Tidak;"Lampung,BandarLampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+238;Biologi;"3,55";Perempuan;155;40;SMA;2jam;Ya;"SMA Negeri 1 Purbolinggo, kab. Lampunh timur, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+239;Sains Data;-;Perempuan;155;50;SMA;5;Tidak;"Tebing Tinggi, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;PNS;3 jt - 5jt;5
+240;Teknik Biosistem;"3,19";Perempuan;152 cm;50 kg;SMA;48 jam;Tidak;"Sibolga, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;< 1jt;7
+241;SAP;"3,17";Perempuan;149;50;SMA;3;Tidak;"Karawang, Jawa Barat";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;PNS;> 9jt;6
+242;Teknik Mesin;-;Laki-laki;165;70;SMA;2;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;7 jt - 9 jt;6
+243;Fisika ;"2,71";Perempuan;148;43;SMA;500-570 jam/minggu;Tidak;"Tanggamus, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;2 km - 3 km;Wiraswata;PNS;1jt - 3jt;4
+244;Sains Data;-;Perempuan;155 cm;42 kg;SMK;84-105 jam;Tidak;"Jakarta Timur, DKI Jakarta";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;5
+245;Teknik Fisika;"3,57";Laki-laki;159;51;SMA;4;Ya;"Lampung tengah, Lampung";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+246;Sains Data;"2,4";Laki-laki;171 cm;80 kg;SMA;1 Jam;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;PNS;1jt - 3jt;5
+247;Sains Atmosfer dan Keplanetan;"2,47";Laki-laki;168;52;SMA;5;Tidak;Lampung;Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+248;Teknologi Pangan;maba😔;Perempuan;160;51;SMA;20 jam an;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+249;Sains Aktuaria;-;Laki-laki;177;70;SMA;30-36;Tidak;"Pringsewu, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;Ibu Rumah Tangga;7 jt - 9 jt;3
+250;Teknik Kimia;"3,74";Laki-laki;168;78;SMA;2 jam;Ya;Medan;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Pensiunan;Wiraswata;1jt - 3jt;4
+251;Sains Aktuaria;"3,58";Laki-laki;182;80;SMA;4-5 ;Tidak;"Jakarta Selatan,Dki Jakarta";Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Wiraswata;< 1jt;3
+252;Teknik Sistem Energi ;-;Laki-laki;165 cm;60 kg;SMK;Tidak menentu;Tidak;"Purwakarta, Jawa Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+253;Arsitektur;4;Perempuan;165 cm;74;SMA;21 jam;Tidak;"Bandarlampung, lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;7 jt - 9 jt;4
+254;Teknologi Pangan;4;Perempuan;163;47;SMA;20;Tidak;Bandar Lampung;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;3
+255;Teknik Geomatika;4;Perempuan;165;68;SMA;15;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;5 jt - 7 jt;4
+256;Matematika;4;Laki-laki;165;67;SMA;70;Tidak;"Deli Serdang, Sumatra Utara";Paruh Waktu;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;4
+257;Teknik Geofisika;4;Perempuan;155;38;SMA;8 jam;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;2 km - 3 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;2
+258;Teknik Lingkungan;4;Perempuan;156;55;SMA;4;Ya;Lampung;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+259;Sains Data;"2,78";Laki-laki;156;54;SMA;2;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5
+260;Sains Data;"3,74";Laki-laki;167;55;SMA;3;Tidak;"Bukittinggi, Sumatra Barat";Tidak bekerja;Fasilitas Kampus;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;< 1 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;3
+261;Sains data;"3,43";Perempuan;155 cm;58;SMA;7;Tidak;"Jakarta pusat, dki jakarta";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;> 2 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+262;Sains data ;3;Laki-laki;168;55;SMA;1;Tidak;Sumatera Selatan ;Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;3 km - 4 km;Petani/ Nelayan;Lainnya;3 jt - 5jt;4
+263;Kimia ;"3,16";Perempuan;149;73;SMA;2;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+264;Sains Data;"3,6";Laki-laki;173;69;SMA;3 jam;Tidak;"Depok, Jawa Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Pensiunan;PNS;7 jt - 9 jt;4
+265;Sains Data;"3,64";Perempuan;155;48;SMA;28;Ya;"Sidomulyo, Lampung Selatan ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+266;Sains Data;"3,89";Perempuan;160;60;SMA;9;Tidak;"Batu Bara, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;9
+267;Teknologi Pangan ;4;Perempuan;151;55;SMK;48 jam;Tidak;"Way Kanan, Lampung";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;> 5 km;PNS;PNS;1jt - 3jt;5
+268;Tekpang;"3,7";Perempuan;152;40;SMA;20;Tidak;"Tulang Bawang, Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Petani/ Nelayan;PNS;1jt - 3jt;4
+269;Arsitektur Lanskap;-;Laki-laki;176;58;SMA;Sekitar 2-3 jam;Tidak;"Kuningan, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Karyawan Swasta;PNS;> 9jt;4
+270;Sains Data;"3,33";Perempuan;155;42;SMA;18 jam;Tidak;"Lampung Utara, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;7
+271;Sains Data ;"3,72";Laki-laki;170;55;SMA;20;Tidak;"Payakumbuh, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;2
+272;Sains Data;"3,07";Laki-laki;168;55;SMA;1;Tidak;Sumatera Selatan ;Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;3 km - 4 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;4
+273;Sains Data;"3,67";Laki-laki;163cm;53kg;SMA;7 jam;Tidak;"Bandar Lampung, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Karyawan Swasta;5 jt - 7 jt;5
+274;Teknik Geologi ;-;Laki-laki;165;48;SMK;14;Ya;"Tanggamus, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+275;Sains Atmosfer dan Keplanetan;"3,74";Laki-laki;170;55;SMA;2 jam;Tidak;"Tangerang, Banten";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;> 9jt;3
+276;Perencanaan wilayah dan kota;Belum ada ;Laki-laki;165;66;SMA;1 jam ;Tidak;"Pematangsiantar, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;PNS;3 jt - 5jt;5
+277;PWK;"2,8";Laki-laki;170;60;SMA;40 jam;Tidak;"Pringsewu, lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+278;Sains Data;"3,24";Laki-laki;174;68;SMA;7 jam;Tidak;"Kisaran, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;2 km - 3 km;Pensiunan;PNS;3 jt - 5jt;8
+279;Sains Data ;"3,26";Perempuan;151;55;SMA;3;Ya;"Tulang Bawang, Lampung ";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Lainnya;1jt - 3jt;4
+280;Arsitektur;"3,83";Perempuan;165;55;SMA;3 jam ;Tidak;"Way kanan, lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak Pribadi;2 km - 3 km;Lainnya;Ibu Rumah Tangga;< 1jt;4
+281;Sains Data;"3,07";Laki-laki;165;58;SMA;5;Ya;"Dharmasraya, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+282;PWK;-;Laki-laki;173 cm;63 kg;SMA;3-4;Tidak;"Jakarta Timur, Jakarta";Penuh Waktu;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;3
+283;Teknik Geologi;-;Perempuan;160;60;SMA;90 jam;Tidak;"inhil, riqu";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;< 1 km;Lainnya;Wiraswata;3 jt - 5jt;4
+284;Sains Atmosfer dan Keplanetan ;"2,6";Laki-laki;172;120;SMA;2 jam;Tidak;"Padang, Sumatera Barat ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;PNS;3 jt - 5jt;5
+285;Teknik Informatika ;"3,8";Perempuan;160;75;SMA;40;Tidak;"Mandailing Natal, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Asrama;< 1 km;Lainnya;Petani/ Nelayan;1jt - 3jt;5
+286;Teknik Informatika;-;Laki-laki;175;80;SMA;5;Tidak;"Bandar lampung, Lampung";Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;> 2 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;5 jt - 7 jt;4
+287;Teknik Telekomunikasi ;belum ada;Laki-laki;160;53;SMK;2 jam;Tidak;"Bukittinggi, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Asrama;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;7
+288;Sains Data ;"3,28";Perempuan;162;46;SMA;35;Tidak;"Lampung Timur, Lampung ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;Wiraswata;Wiraswata;1jt - 3jt;5
+289;Teknik Geofisika ;"3,50";Laki-laki;173;68;SMA;30;Tidak;"Lampung Selatan, Lampung ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;6
+290;Arsitektur;otw 4.00 kak;Perempuan;158cm;47;SMA;2 jam;Ya;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+291;matematika ;4;Perempuan;160;63;SMA;6 jam;Tidak;"Kalirejo, Lampung Tengah ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5 orang 
+292;Sains Data;"3,58";Perempuan;156;45;SMA;14;Tidak;"Asahan, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak Pribadi;3 km - 4 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+293;Sains Data;"2,89";Perempuan;158;60;SMA;3 jam;Tidak;"Metro, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;3
+294;Teknik Informatika;-;Laki-laki;160;160;SMA;2;Tidak;"Muara Enim,Sumatra Selatan";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;3 km - 4 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+295;Fisika;"3,18";Laki-laki;165;53;SMA;5-6;Tidak;"Tulang Bawang Barat, lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;2 km - 3 km;Lainnya;PNS;5 jt - 7 jt;5
+296;Desain Komunikasi Visual;4;Perempuan;148;52;SMA;0;Tidak;"Way Kanan, Lampung ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+297;Teknik Elektro ;3;Laki-laki;165;42;SMA;20 jam;Ya;"Payakumbuh, Sumatra Barat ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+298;Desain komunikasi visual ;4;Perempuan;153;40;SMA;29;Tidak;Padang Sumatra Barat ;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;PNS;PNS;3 jt - 5jt;4
+299;Teknik Informatika;-;Perempuan;160cm;48 kg ;SMA;30 jam;Ya;"Lampung, Bandar Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+300;Teknik Informatika ;"3,8";Perempuan;160;75;SMA;40;Tidak;"Mandailing Natal, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Asrama;< 1 km;Lainnya;Petani/ Nelayan;1jt - 3jt;5
+301;Sains Data;-;Laki-laki;180;70;SMK;50;Tidak;Sumatera Barat;Paruh Waktu;Fasilitas Kampus;Tidak Aktif;"1,5 jt s.d 2 jt";Rumah mengontrak Pribadi;> 5 km;Lainnya;Lainnya;> 9jt;6
+302;Teknologi Industri Pertanian;"3,29";Perempuan;161;52;SMA;20 jam;Ya;"Medan, Sumatera Utara";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Tinggal besama orangtua;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;4
+303;KIMIA;"3,75";Laki-laki;168;46;SMK;6;Ya;"Cilegon, Banten";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;10
+304;Sains Data;-;Laki-laki;165;48;SMA;3;Tidak;"Lampung Timur, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Kos;> 5 km;Lainnya;Wiraswata;< 1jt;5
+305;Sains Data;"3,35";Perempuan;155;80;SMA;3;Tidak;"Rokan Hilir, Riau";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;7
+306;Teknik Sipil;-;Laki-laki;167;52;SMA;2;Tidak;"Pali,Sumatera Selatan";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Wiraswata;Lainnya;< 1jt;4
+307;Kimia;"3,21";Perempuan;148;41;SMA;7;Tidak;"Pesawaran, Lampung ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+308;teknik Geofisika ;-;Perempuan;150;36;SMA;18jam;Ya;Dolok sanggul Sumatra Utara ;Tidak bekerja;Fasilitas Kampus;Aktif kegiatan akademik;500k s.d 1 jt;Asrama;< 1 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;7
+309;Perencanaan Wilayah dan Kota;-;Laki-laki;165;55;SMA;48;Tidak;"Bekasi, Jawa Barat ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+310;Sains Data;"3,47";Perempuan;149;40;SMA;2;Tidak;bandar lampung;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;PNS;5 jt - 7 jt;5
+311;Sains Data;"3,4";Laki-laki;177;75;SMA;28;Tidak;"Tanggamus, Lampung ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+312;Teknik Biomedis;"2,98";Perempuan;157;90;SMA;4-6 jam ;Tidak;"Depok, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+313;Teknik Mesin;3 an;Laki-laki;167;54;SMA;75 jam;Tidak;"Padang, Sumatera Barat";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;5
+314;Pariwisata;-;Perempuan;170;73;SMA;20 jam;Tidak;"Lampung, Lampung Timur";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;4
+315;Pariwisata;"3,65";Perempuan;165;50;SMK;15 jam;Tidak;"Batam, Kepulauan Riau";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;6
+316;Sains Data;0;Laki-laki;172;47;SMA;4;Tidak;"Banten, Kabupaten Tangerang ";Tidak bekerja;Lainnya;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;5
+317;Teknik Sipil;-;Perempuan;165cm;50kg;SMA;90jam;Ya;Sumatera Utara;Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;6
+318;Kimia;"2,53";Laki-laki;-;43;SMA;3x dalam seminggu ;Tidak;lampung;Tidak bekerja;Wi-Fi pribadi;Lainnya;> 2 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;5 jt - 7 jt;4
+319;Teknologi Pangan ;"3,5";Perempuan;160;58;SMA;30 jam;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Lainnya;1jt - 3jt;4
+320;Sains Data;"3,79";Laki-laki;175 Cm;80 kg;SMA;12 jam;Tidak;"Batam, Kepulauan Riau";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+321;Kimia ;"3,94";Perempuan;150;50;SMA;10;Ya;Lampung ;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;4
+322;Sains Data;"3,69";Laki-laki;180;84;SMA;4 jam;Tidak;"Padang, Sumatera Barat";Tidak bekerja;Fasilitas Kampus;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Petani/ Nelayan;Lainnya;1jt - 3jt;5
+323;Teknik Lingkungan;"3,67";Perempuan;157;64;SMA;4 jam;Ya;Sumatera Utara;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;6
+324;Desain Komunikasi Visual ;4;Perempuan;160cm;48kg;SMA;kurang lebih 32jam perminggu(diluar pembelajaran kampus);Tidak;Jambi ;Tidak bekerja;Paket Data Seluler;Tidak Aktif;> 2 jt;Kos;1 km - 2 km;Wiraswata;Wiraswata;> 9jt;7
+325;Teknik Informatika;"3,5";Perempuan;154;48;SMA;3 jam;Ya;"Palembang, Sumatera Selatan";Tidak bekerja;Fasilitas Kampus;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+326;Teknik Material;"3,33";Laki-laki;168;52;SMA;14 jam;Tidak;"Solok, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Asrama;< 1 km;Lainnya;PNS;3 jt - 5jt;2
+327;Teknik Biomedis;"2,89";Laki-laki;165 cm;62 kg;SMA;6;Tidak;"Cirebon, Jawa Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;> 2 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;> 9jt;5
+328;Sains Aktuaria ;"3,53";Laki-laki;164;75;SMA;6 jam;Tidak;"Bekasi, Jawa Barat ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Pensiunan;Ibu Rumah Tangga;3 jt - 5jt;4
+329;Farmasi;"2,9";Laki-laki;171;65;SMA;4 jam ;Tidak;"Medan, sumatera Utara ";Paruh Waktu;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Karyawan Swasta;> 9jt;4
+330;Sains Data;-;Laki-laki;168;50;SMA;4;Tidak;"Lampung, Bandar Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;5 jt - 7 jt;3
+331;Matematika;"3,67 kayanya";Perempuan;162;65;SMA;lupa;Ya;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;> 5 km;Lainnya;Lainnya;1jt - 3jt;4
+332;Farmasi;"3,21";Perempuan;146;50;SMA;24 jam  ;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Karyawan Swasta;PNS;3 jt - 5jt;6
+333;Sains Aktuaria;4;Perempuan;155;42;SMA;20;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;4
+334;Farmasi;"3,64";Laki-laki;170;98;SMA;4;Tidak;"Metro, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Lainnya;3 jt - 5jt;4
+335;Teknik Sistem Energi;-;Perempuan;150;38;SMK;12 jam;Ya;"Tanjung Enim, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;6
+336;Teknik Informatika;"3,76";Laki-laki;164;101;SMA;18;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;4
+337;Teknologi Pangan ;"3,5";Perempuan;160;58;SMA;4 jam;Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Lainnya;1jt - 3jt;4
+338;kimia;"3,94";Perempuan;150;50;SMA;8;Ya;Lampung ;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;4
+339;Sains Data;-;Laki-laki;167;65;SMA;10-14;Tidak;"Pekanbaru, Riau";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Wiraswata;PNS;7 jt - 9 jt;5
+340;Teknik Biomedis ;"3,41";Laki-laki;158;48;SMA;68;Tidak;"Ogan Komering Ulu Timur, Sumatera Selatan ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Lainnya;1jt - 3jt;6
+341;teknik geologi;"3,5";Laki-laki;170;50;SMA;8 jam perhari;Ya;lampung;Tidak bekerja;Lainnya;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Petani/ Nelayan;Lainnya;1jt - 3jt;4
+342;Perencanaan wilayah dan kota;"2,97";Perempuan;153;39;SMA;24 jam;Ya;"Payakumbuh, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+343;pwk;"2,8";Laki-laki;160+;46;SMA;setiap minggu;Tidak;Lampung;Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;> 2 jt;Rumah mengontrak Pribadi;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+344;Teknik Biomedis;"3,01";Perempuan;145 cm;35 kg;SMA;1 jam;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Lainnya;PNS;3 jt - 5jt;5
+345;Teknik Biomedis ;"2,9";Perempuan;158;40;SMK;8 jam;Tidak;"Semarang, Jawa Tengah ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;5 orang 
+346;Teknologi Pangan;"3,33";Perempuan;156;45;SMA;2-3 jam;Tidak;"Bukittinggi, Sumatra barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Petani/ Nelayan;Wiraswata;1jt - 3jt;5
+347;Teknik Pertambangan ;"3,6";Perempuan;157 cm;59;SMA;4-5 jam;Ya;"Padang, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Lainnya;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;6
+348;Sains Data;"3,22";Laki-laki;170;58;SMA;3;Ya;"Lampung Tengah, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;< 1jt;4
+349;Sains Data;"3,95";Perempuan;157;45;SMA;5 jam;Tidak;"Pagar Alam, Sumatera selatan ";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;> 2 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;5 jt - 7 jt;4
+350;Teknik Biomedis ;"3,53";Perempuan;167;52;SMA;18-19 jam;Tidak;"Payakumbuh, Sumatera Barat ";Tidak bekerja;Lainnya;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;3 km - 4 km;Pensiunan;Pensiunan;1jt - 3jt;5
+351;Sains data;"3,01";Laki-laki;183;85;SMA;5;Tidak;"Krui,Pesisir Barat";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Lainnya;1jt - 3jt;2
+352;teknik biomedis;masih semester 1;Perempuan;159 cm;44 kg;SMA;3 atau 4 jam;Tidak;"solok, sumatera barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;PNS;3 jt - 5jt;5
+353;Rekayasa Kosmetik;Baru mulai kuliah tahun ini;Laki-laki;164 cm;52 Kg;SMA;15;Tidak;"Jambi, Jambi";Tidak bekerja;Paket Data Seluler;Tidak Aktif;> 2 jt;Kos;< 1 km;Wiraswata;Ibu Rumah Tangga;> 9jt;4
+354;Sains Data;"3,4";Perempuan;161;57;SMA;14;Tidak;"Metro, Lampung ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;3
+355;Teknik Informatika;"3,5";Perempuan;160;45;SMA;10 jam (?);Ya;"Padang Panjang, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Lainnya;< 1jt;4
+356;Teknik Sipil;"3,08";Laki-laki;167 cm;55 kg;SMK;25;Ya;"Padang, Sumatera Barat";Paruh Waktu;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;3 km - 4 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+357;Teknik Pertambangan ;4;Perempuan;145;37;SMA;6-7 jam;Ya;"Dharmasraya, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Asrama;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;4
+358;Sains Data;"3,26";Perempuan;152;38;SMA;5 jam;Tidak;"Lampung Timur, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;PNS;3 jt - 5jt;5
+359;pariwisata ;"3,6";Perempuan;160;58;SMA;15 jam ;Tidak;"kalianda,lampung selatan ";Tidak bekerja;Lainnya;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Pensiunan;1jt - 3jt;5
+360;Farmasi ;"3,21";Perempuan;146;50;SMA;5;Tidak;"Palembang, Sumatera Selatan ";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Karyawan Swasta;PNS;3 jt - 5jt;6
+361;Teknik Geofisika ;"3,02";Laki-laki;164;47;SMK;"Sesuai mata kuliah,soalnya fokusin belajar di kelas,di kosan ga belajar kecuali ada tugas";Tidak;Pekanbaru ;Tidak bekerja;Lainnya;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;3
+362;Teknik Industri;"3,3";Laki-laki;164;67;SMA;60 jam;Tidak;"Bandar Lampung, Lampung";Paruh Waktu;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Pensiunan;> 9jt;3
+363;Teknik Biomedis ;4;Perempuan;165;70;SMA;2;Tidak;"Medan, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;3
+364;Teknik Informatika;"3,87";Laki-laki;175;68;SMA;7 jam;Ya;"Bukittinggi, Sumatera Barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Lainnya;Lainnya;< 1jt;7
+365;Teknik Biomedis;"3,4";Perempuan;155;48;SMA;6;Tidak;"pasaman, sumatera barat";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;< 1 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;4
+366;Sains Data ;- (angkatan 2025);Perempuan;153;58;SMA;10-13 jam ;Ya;Sumatera Utara ;Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;3 km - 4 km;Wiraswata;Ibu Rumah Tangga;< 1jt;"6 anggota (ayah, ibu, 4 orang anak)+1 nenek"
+367;Arsitektur ;"3,1";Laki-laki;172;90;SMA;5;Ya;"Lampung Timur, Lampung ";Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;3
+368;Rekayasa Instrumentasi dan Automasi ;-;Laki-laki;173;55;SMA;8;Tidak;"Tangerang, Banten";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+369;Sains Data;"2,83";Perempuan;164 cm;46 kg;SMA;5;Ya;"Lampung, Kota Bandar Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;4
+370;Teknik Biomedis;"3,4";Perempuan;155;45;SMA;20;Ya;"Ogan Komering Ilir, Sumatera Selatan";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+371;Sains Data;"3,31";Laki-laki;161;52;SMA;14;Tidak;"Metro, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Kos;> 5 km;Wiraswata;Ibu Rumah Tangga;< 1jt;3
+372;Teknik Sipil;"2,5";Perempuan;158;53;SMK;2;Tidak;"Bandar Lampung, Lampung ";Paruh Waktu;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;6
+373;Teknik Kelautan;"2,8";Perempuan;152;47;SMA;4;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;< 1 km;Lainnya;Lainnya;> 9jt;4
+374;Farmasi;"3,58";Laki-laki;175;73;SMA;8;Tidak;"Lampung Timur, Lampung";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak Pribadi;> 5 km;Lainnya;Lainnya;1jt - 3jt;4
+375;Teknik industri;"3,05";Laki-laki;175cm;98kg;SMA;8;Tidak;"Medan, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Tidak Aktif;> 2 jt;Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;> 9jt;4
+376;Perencanaan Wilayah dan Kota;-;Laki-laki;170;60;SMA;10;Tidak;"Pangkalpinang, Bangka Belitung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;Karyawan Swasta;5 jt - 7 jt;4
+377;Sains Aktuaria ;"3,6";Perempuan;157;46;SMA;4;Ya;Pringsewu Lampung;Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;3
+378;Sainsdata;"3,2";Perempuan;169;50;SMA;8;Ya;"Payakumbuh,Sumatera Barat";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;5
+379;Teknik Biomedis ;"3,57";Perempuan;158;50;SMA;10;Tidak;"Tanah Datar, Sumatera Barat ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5
+380;Teknik Sistem Energi ;-;Perempuan;155;45;SMA;12;Ya;"Kabupaten Agam, Sumatera Barat ";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;5
+381;Sains Data;"2,88";Laki-laki;170;48;SMA;5;Tidak;"Tanggamus, Lampung";Paruh Waktu;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;5
+382;Rekayasa Instrumentasi dan Automasi;3;Laki-laki;175;55;SMK;44 jam;Tidak;"Kota Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;< 1jt;5
+383;Sains Data;"3,67";Perempuan;153;49;SMA;2 jam;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Pensiunan;Karyawan Swasta;5 jt - 7 jt;4
+384;Teknik biomedis ;"3,55";Laki-laki;165;52;SMA;6;Tidak;Bandar Lampung ;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;3 jt - 5jt;6
+385;Sains Data;"3,06";Laki-laki;157;48;SMA;15 Jam;Tidak;"Lampung Tengah, Lampung";Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Asrama;< 1 km;Wiraswata;Wiraswata;1jt - 3jt;5
+386;Sains Data;"3,19";Laki-laki;171;61;SMA;4;Tidak;"Lampung Timur, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;3 km - 4 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;4
+387;TEKNIK GEOFISIKA ;- ;Perempuan;153cm;60kg;SMA;35 jam;Tidak;"jambi , JAMBI";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;6
+388;Arsitektur;"3,9";Laki-laki;190;67;SMA;70;Ya;Kota Bukittinggi profinsi sumbar;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Ibu Rumah Tangga;Ibu Rumah Tangga;< 1jt;6
+389;Teknik geomatika;-;Laki-laki;178;60;SMK;14;Tidak;Bukittinggi sumatra Barat;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;5
+390;Sains Data;"3,59";Perempuan;142 cm;35 Kg;SMK;8;Ya;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;PNS;Lainnya;3 jt - 5jt;5
+391;Teknik kelautan ;"2,6";Perempuan;155;53;SMA;48;Tidak;"Bukittinggi, Sumatera Barat ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Pensiunan;Wiraswata;< 1jt;2
+392;Teknik Geofisika;"4,00";Laki-laki;166;58;SMA;4-6 Jam sudah termasuk dengan tugas ;Tidak;"Rantauprapat, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Lainnya;5 jt - 7 jt;5
+393;Teknik Lingkungan ;"3,4";Perempuan;157cm;58kg;SMA;7;Ya;"Salak, Sumatra Utara ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Petani/ Nelayan;3 jt - 5jt;5
+394;Teknik Geofisika;-;Laki-laki;169;70;SMA;24;Tidak;"Medan, Sumatra Utara";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Kos;3 km - 4 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;4
+395;Fisika;"3,3";Laki-laki;178cm;75;SMA;12 jam;Tidak;Lampung;Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Kos;1 km - 2 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;5
+396;Teknik Informatika;"3,29";Laki-laki;171;60;SMK;72;Tidak;"Bandar Lampung, Lampung. ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;"6 (ayah, ibu, 4 anak termasuk saya) "
+397;Sains Data;"3,54";Perempuan;162;45;SMA;30;Ya;"Toba, Sumatera Utara";Tidak bekerja;Lainnya;Lainnya;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;5
+398;Sains Data;"3,4";Perempuan;155;47;SMA;2 jam;Ya;"Lampung, Kota Bandar Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;< 1 km;PNS;Karyawan Swasta;> 9jt;3
+399;Sains aktuaria;"3,19";Perempuan;155;45;SMK;-;Ya;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Lainnya;1jt - 3jt;5
+400;Teknik Geofisika;-;Laki-laki;168;71;SMA;15 menit;Tidak;Sumatra Utara;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Lainnya;Lainnya;< 1jt;4
+401;Farmasi;"3,5";Perempuan;161;58;SMA;8 jam;Tidak;"Kemiling, Bandar Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;> 2 jt;Kos;> 5 km;Lainnya;Wiraswata;> 9jt;4
+402;Teknik biomedis ;-;Laki-laki;160;67;SMA;3-5 jam;Tidak;"Deli Serdang, sumatera Utara ";Tidak bekerja;Lainnya;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;2 km - 3 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;4
+403;Rekayasa kosmetik ;-;Perempuan;160;44;SMA;12;Tidak;"Sidorejo, lampung";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1 jt s.d 1,5 jt";Kos;< 1 km;Wiraswata;Wiraswata;> 9jt;5
+404;Sains Data;"3,43";Perempuan;150;44;SMA;1;Tidak;"Lampung Barat, Lampung";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1,5 jt s.d 2 jt";Kos;3 km - 4 km;Lainnya;Ibu Rumah Tangga;3 jt - 5jt;3
+405;Sains Data ;-;Perempuan;156 cm;43 kg;SMA;2 jam;Ya;"Bandar Lampung, Lampung ";Tidak bekerja;Fasilitas Kampus;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Lainnya;1jt - 3jt;2
+406;Rekayasa Kehutanan ;Belum ada;Perempuan;150;48;SMA;1 jam 30 menit;Tidak;Bengkulu ;Tidak bekerja;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Asrama;< 1 km;Lainnya;PNS;3 jt - 5jt;4
+407;Pariwisata;"3,55";Perempuan;158 Cm;41 Kg;SMA;12 Jam ( Diluar jam perkuliahan);Tidak;"Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;3
+408;Sains Data ;"2,9";Laki-laki;177;55;SMA;18;Tidak;"Natar, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;6
+409;Sains Aktuaria;"3,78";Laki-laki;170;62;SMA;1;Tidak;Jakarta;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;5
+410;Sains Data;-;Perempuan;160;47;SMA;"3,5 jam";Tidak;"Pringsewu, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;2
+411;Telekomunikasi;belum diketahui;Laki-laki;173;64;SMK;500 menit;Ya;"Bandar Lampung, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+412;teknik mesin;"3,75";Laki-laki;176;67;SMA;1 jam;Tidak;"palembang, sumatera selatan";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;3 km - 4 km;PNS;Ibu Rumah Tangga;> 9jt;4
+413;Desain Komunikasi Visual;-;Perempuan;156;41;SMA;20;Tidak;"Lampung, Bandar Lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;5
+414;Teknik Biosistem ;"3,5";Laki-laki;168;50;SMA;18;Ya;"Padang, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Asrama;> 5 km;Lainnya;Ibu Rumah Tangga;< 1jt;5
+415;Sains Atmosfir dan Keplanetan ;-;Perempuan;157;50;SMA;26 jam;Tidak;"Lampung timur, lampung";Paruh Waktu;Paket Data Seluler;Lainnya;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;5 jt - 7 jt;5
+416;Biologi;3;Perempuan;152;48;SMA;3-4 jam;Tidak;LAMPUNG;Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;PNS;3 jt - 5jt;4
+417;Kimia;"3,39";Perempuan;150 cm;46 kg;SMA;8 jam;Ya;"Solok, Sumatera Barat";Tidak bekerja;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Petani/ Nelayan;Ibu Rumah Tangga;1jt - 3jt;7
+418;Fisika;"3,17";Laki-laki;169;70;SMK;50 jam;Tidak;Bandar Lampung;Paruh Waktu;Paket Data Seluler;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Ibu Rumah Tangga;3 jt - 5jt;6
+419;Rekayasa kosmetik;-;Perempuan;160;48;SMA;2;Tidak;"Bandar lampung , lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;< 1jt;6
+420;Sains Data ;"3,25";Laki-laki;175;64;SMA;3;Tidak;"Kota Bandar Lampung, Lampung";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;7 jt - 9 jt;4
+421;Sains Data ;-;Perempuan;168;75;SMA;2-3;Tidak;"Lampung Selatan, Lampung ";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;4
+422;Teknik Biomedis;"3,7";Perempuan;164;51;SMA;3-5 jam;Tidak;"palembang, sumatera selatan";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;> 2 jt;Kos;1 km - 2 km;Karyawan Swasta;PNS;5 jt - 7 jt;4
+423;Teknik Pertambangan ;"3,5";Laki-laki;177 cm;72 kg;SMA;40 jam;Tidak;"OKU TIMUR, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;3 jt - 5jt;7
+424;Teknik Sipil;4;Perempuan;170;49;SMA;3-4 jam ;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Pensiunan;Karyawan Swasta;3 jt - 5jt;4
+425;Teknik Informatika ;"3,66";Laki-laki;168;60;SMK;3;Tidak;"Bandar lampung, Lampung ";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;PNS;PNS;5 jt - 7 jt;5
+426;Fisika;"3,48";Laki-laki;175;54;SMA;35 jam karna 1 hari belajar nya 5 jam (belajar nya dalam hal ngerjain tugas dan bahas soal);Ya;"Toba, Sumatera Utara";Paruh Waktu;Fasilitas Kampus;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;< 1jt;4 bersaudara
+427;Teknik Kimia ;"3,5";Laki-laki;172;80;SMA;5;Tidak;Lampung ;Paruh Waktu;Paket Data Seluler;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Wiraswata;Ibu Rumah Tangga;< 1jt;3
+428;Perencanaan Wilayah dan Kota;-;Perempuan;158 cm;50 kg;SMA;5 jam;Tidak;"Medan, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;5 jt - 7 jt;5
+429;Arl;"3,74";Perempuan;160;59;SMA;10;Tidak;"Toba, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Rumah mengontrak bersama-sama;> 5 km;Petani/ Nelayan;Ibu Rumah Tangga;< 1jt;5
+430;Teknik Geologi ;"3,39";Perempuan;160;43;SMA;28 jam;Ya;"Lampung Selatan, Lampung ";Tidak bekerja;Paket Data Seluler;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Wiraswata;Lainnya;1jt - 3jt;3
+431;Sains Atmosfer dan Keplanetan ;"3,3";Perempuan;153;50;SMA;28 jam;Tidak;"Ogan Komering Ilir, Sumatera Selatan ";Tidak bekerja;Paket Data Seluler;Lainnya;"1,5 jt s.d 2 jt";Kos;2 km - 3 km;Wiraswata;PNS;3 jt - 5jt;3
+432;Sains Data;-;Laki-laki;182;78;SMA;14 jam;Tidak;Metro;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Rumah mengontrak Pribadi;2 km - 3 km;Wiraswata;Ibu Rumah Tangga;1jt - 3jt;4
+433;arsitektur ;"3,2";Laki-laki;178;87;SMK;24;Tidak;"Bireuen, aceh";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Rumah mengontrak bersama-sama;2 km - 3 km;Lainnya;PNS;3 jt - 5jt;5
+434;Teknik Biomedis;"3,54";Perempuan;150;46;SMA;2-3;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;"1,5 jt s.d 2 jt";Kos;> 5 km;Lainnya;Ibu Rumah Tangga;> 9jt;8
+435;Sains Data;"3,68";Laki-laki;168;54;SMA;3;Tidak;"Bandar Lampung, Lampung";Paruh Waktu;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;2 km - 3 km;Pensiunan;Lainnya;5 jt - 7 jt;4
+436;Sains Data ;0;Perempuan;154;53;SMA;5;Tidak;"Tapanuli Utara, Sumatera Utara ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Petani/ Nelayan;PNS;1jt - 3jt;6
+437;Sains data ;-;Laki-laki;167;46;SMA;4;Tidak;"Palembang, Sumatera Selatan ";Tidak bekerja;Paket Data Seluler;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;PNS;PNS;> 9jt;4
+438;Sains Data;-;Perempuan;163 cm;47 kg;SMA;7;Ya;"Bangunrejo,Lampung Tengah";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;1jt - 3jt;5
+439;Sains data;-;Perempuan;158;51;SMA;12;Tidak;"Pesawaran,  lampung";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;< 1 km;PNS;Ibu Rumah Tangga;3 jt - 5jt;4
+440;Sains Data ;-;Perempuan;156;52;SMA;10;Ya;"Kabanjahe, Sumatera Utara ";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;1 km - 2 km;Petani/ Nelayan;Petani/ Nelayan;1jt - 3jt;5
+441;Teknik Geofisika;-;Laki-laki;168;55;SMA;3;Ya;"Langkat, Sumatera Utara";Tidak bekerja;Paket Data Seluler;Aktif organisasi kemahasiswaan;"1 jt s.d 1,5 jt";Asrama;< 1 km;Lainnya;Lainnya;1jt - 3jt;6
+442;Sains Data;-;Perempuan;161;62;SMA;10;Tidak;Lampung;Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;500k s.d 1 jt;Kos;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5
+443;Teknik Pertambangan;-;Laki-laki;192;70;SMA;3;Tidak;"Bandar Lampung, Lampung";Paruh Waktu;Wi-Fi pribadi;Lainnya;> 2 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;2
+444;Teknik Biomedis ;9;Perempuan;154;45;SMA;20 jam;Ya;Jogja;Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;500k s.d 1 jt;Rumah mengontrak bersama-sama;1 km - 2 km;Lainnya;Lainnya;1jt - 3jt;7
+445;Teknik Informatika;"2,76";Laki-laki;181;88;SMA;4;Tidak;"Tangerang Selatan, Banten";Tidak bekerja;Wi-Fi pribadi;Aktif organisasi kemahasiswaan;> 2 jt;Kos;1 km - 2 km;Karyawan Swasta;Karyawan Swasta;> 9jt;4
+446;Sains Atmosfir dan Keplanetan ;"3,8";Laki-laki;173;51;SMA;2;Tidak;"Pariaman, Sumatera Barat ";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;1 km - 2 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;6
+447;Sains Data;-;Perempuan;160 cm;45 kg;SMK;3 jam;Tidak;Bandar lampung;Paruh Waktu;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Tinggal besama orangtua;1 km - 2 km;Lainnya;Ibu Rumah Tangga;< 1jt;2
+448;Sains Data;-;Perempuan;150;45;SMA;9 jam;Ya;"Lampung Utara, Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Kos;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+449;Sains Data;-;Perempuan;160;42;;4 jam;Tidak;"Lampung Tengah, Lampung";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Asrama;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+450;Biologi;"3,78";Perempuan;155;49;SMK;7 jam;Tidak;"Lampung, Bandar Lampung";Tidak bekerja;Wi-Fi pribadi;Lainnya;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;5
+451;Sains Data;-;Laki-laki;153;49;SMA;5 Jam;Tidak;"Pekanbaru, Riau";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1,5 jt s.d 2 jt";Kos;< 1 km;Karyawan Swasta;Ibu Rumah Tangga;5 jt - 7 jt;5
+452;Sains Data ;-;Laki-laki;181;63;SMA;9 jam ;Tidak;"Bekasi, Jawa Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Wiraswata;Karyawan Swasta;7 jt - 9 jt;5
+453;Teknik biomed ;"3,";Laki-laki;174;65;SMA;20;Tidak;"Agam, sumatera barat ";Tidak bekerja;Wi-Fi pribadi;Tidak Aktif;"1 jt s.d 1,5 jt";Kos;2 km - 3 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;9
+454;Sains Data;-;Laki-laki;170;58;SMA;2 jam;Ya;"Lampung Selatan, Lampung";Paruh Waktu;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Tinggal besama orangtua;> 5 km;Lainnya;Ibu Rumah Tangga;1jt - 3jt;5
+455;Sains Data;-;Perempuan;158;55;SMA;18 jam;Tidak;Sumatera Selatan;Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;< 1 km;Wiraswata;PNS;3 jt - 5jt;5
+456;Teknik Biomedis;-;Perempuan;158;45;SMA;32;Tidak;"Palembang, Sumatera Selatan";Tidak bekerja;Paket Data Seluler;Aktif kegiatan akademik;500k s.d 1 jt;Kos;< 1 km;Karyawan Swasta;Karyawan Swasta;3 jt - 5jt;6
+457;Sains Data ;-;Laki-laki;178cm;60kg;SMA;40;Tidak;"Pekanbaru, Riau";Tidak bekerja;Fasilitas Kampus;Tidak Aktif;500k s.d 1 jt;Kos;2 km - 3 km;Pensiunan;Lainnya;< 1jt;3
+458;Sains Data;-;Laki-laki;175;65;SMA;-;Tidak;"Bekasi,Jawa Barat";Tidak bekerja;Paket Data Seluler;Tidak Aktif;500k s.d 1 jt;Kos;1 km - 2 km;Karyawan Swasta;Ibu Rumah Tangga;3 jt - 5jt;4
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;

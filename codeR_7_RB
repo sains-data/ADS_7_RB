@@ -1,0 +1,14 @@
+#analisis pengaruh uang saku terhadap nilai ads mahasiswa itera pada tahun 2025
+#memuat library yang dibutuhkan
+
+library(ggplot2)
+library(dplyr)
+data_karakteristik <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Karakteristik Mahasiswa.csv")
+data_nilai_ads <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Nilai ADS.csv")
+data_survei_sebelum <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Survei Kepuasan Sebelum Test.csv")
+data_survei_setelah <- read.csv("C:/PROJECT/ADS_7_RB/Dataset/Survei Kepuasan Setelah Test.csv")
+
+head(data_karakteristik)
+head(data_nilai_ads)
+head(data_survei_sebelum)
+head(data_survei_setelah)
