@@ -14,10 +14,6 @@ Berikut adalah susunan folder dan file utama dalam repositori ini:
 
 2. Dataset yang Digunakan
 
-Dataset berasal dari hasil pengumpulan data mahasiswa dan dibagi dalam beberapa sheet, yang telah diekspor menjadi file CSV. Fokus utama analisis ini adalah pada data dari sheet "Nilai ADS" yang berisi:
-
-Kolom
-
 Deskripsi Singkat
 
 Nilai_RA, Nilai_RB, Nilai_RC
@@ -67,7 +63,7 @@ Langkah-langkah:
 
 Buka file Code Final Banget.Rmd di RStudio.
 
-Jalankan semua chunk kode dalam file .Rmd secara berurutan, atau gunakan tombol Knit untuk menghasilkan laporan akhir (misalnya, dalam format HTML atau PDF).
+Jalankan semua chunk kode dalam file .Rmd secara berurutan, atau gunakan tombol Knit untuk menghasilkan laporan akhir.
 
 Output Utama
 
